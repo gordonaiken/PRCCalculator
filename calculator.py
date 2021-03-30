@@ -23,7 +23,4 @@ def divide(num1, num2):
 
 #todo: implement user interface
 
-
-# Comment: Added a line
-
-# example comment
+print("Hello World")
